@@ -1,0 +1,19 @@
+{
+    "common.title.home":"Kezdőlap",
+    "login.form.email":"email",
+    "login.form.password":"jelszó",
+    "login.form.login":"belépés",
+    "register.form.register":"regisztráció",
+    "register.form.email":"email",
+    "register.form.password":"jelszó",
+    "register.form.password.confirm":"jelszó megerősítés",
+    "register.form.password.not.match":"a jelszavak nem egyeznek",
+    "register.form.isadmin":"regisztrálás rendszergazdaként",
+    "register.error.failed":"A regisztráció sikertelen",
+    "user.error.notFound":"A felhasználó nem található.",
+    "invalid":"Érvénytelen érték vagy az email már foglalt",
+    "error.conflict.user":"Felhasználói név már foglalt.",
+    "error.conflict.admin":"Egy rendszergazda regisztrálható.",
+    "error.user.notFound":"Felhasználó nem található.",
+    "error.user.unauthorized":"Téves jelszó lett megadva."
+}
