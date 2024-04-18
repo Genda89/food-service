@@ -18,9 +18,9 @@ export enum LANGUAGES {
   'en-US' = 'English'
 }
 
-export const STYLES = {
-  buttonAdd: 'button-add'
-};
+// export const STYLES = {
+//   buttonAdd: 'button-add'
+// };
 
 export const INVALID = 'invalid';
 export const NOT_MATCH ='register.form.password.not.match';
