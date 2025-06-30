@@ -1,0 +1,19 @@
+{
+    "common.title.home":"Homepage",
+    "login.form.email":"email",
+    "login.form.password":"password",
+    "login.form.login":"login",
+    "register.form.register":"register",
+    "register.form.email":"email",
+    "register.form.password":"password",
+    "register.form.password.confirm":"confirm password",
+    "register.form.password.not.match":"passwords are not matched",
+    "register.form.isadmin":"register as admin",
+    "register.error.failed":"Registration failed",
+    "user.error.notFound":"User cannot be found.",
+    "invalid":"Invalid entry or email is reserved",
+    "error.conflict.user":"Username is already taken.",
+    "error.conflict.admin":"Admin role is alredy registered. Only one is allowed.",
+    "error.user.notFound":"User cannot be found.",
+    "error.user.unauthorized":"Wrong password has been given."
+}
